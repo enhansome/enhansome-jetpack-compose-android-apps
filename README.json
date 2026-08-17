@@ -67,7 +67,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-14T08:09:12Z",
             "owner": "android",
             "repo": "compose-samples",
-            "stars": 23379
+            "stars": 23380
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2024-10-06T22:16:49Z",
             "owner": "Shabinder",
             "repo": "SpotiFlyer",
-            "stars": 11233
+            "stars": 11235
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-28T12:31:21Z",
             "owner": "Gurupreet",
             "repo": "ComposeCookBook",
-            "stars": 6863
+            "stars": 6864
           }
         },
         {
@@ -232,10 +232,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-11T22:45:07Z",
+            "last_commit": "2026-08-16T17:27:20Z",
             "owner": "joreilly",
             "repo": "PeopleInSpace",
-            "stars": 3418
+            "stars": 3419
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2023-03-20T11:55:27Z",
             "owner": "melbehiry",
             "repo": "Delish",
-            "stars": 531
+            "stars": 530
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2022-01-31T15:18:04Z",
             "owner": "gastsail",
             "repo": "JetExample",
-            "stars": 224
+            "stars": 223
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2021-03-13T20:20:55Z",
             "owner": "ahmed7official",
             "repo": "Facebook-Timeline-Compose-Android",
-            "stars": 146
+            "stars": 145
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2024-04-04T01:33:48Z",
             "owner": "Plastix",
             "repo": "Buzz",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2025-05-09T11:38:19Z",
             "owner": "SimformSolutionsPvtLtd",
             "repo": "SSComposeCookBook",
-            "stars": 727
+            "stars": 726
           }
         },
         {
@@ -898,7 +898,7 @@
             "last_commit": "2026-08-06T16:50:22Z",
             "owner": "IReaderorg",
             "repo": "IReader",
-            "stars": 919
+            "stars": 920
           }
         },
         {
@@ -1010,7 +1010,7 @@
             "last_commit": "2020-12-11T18:39:42Z",
             "owner": "iambaljeet",
             "repo": "TwitterCompose",
-            "stars": 151
+            "stars": 150
           }
         },
         {
@@ -1056,7 +1056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:30:13.902Z",
+    "last_updated": "2026-08-17T03:30:04.102Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-android-apps",
     "original_repository_sha": "a21461ae6e03707f46ef1967b6f7ed91cdc72b14",
     "enhanced_repository": "enhansome/enhansome-jetpack-compose-android-apps",
