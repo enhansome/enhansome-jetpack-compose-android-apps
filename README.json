@@ -1,1063 +1,1073 @@
 {
   "items": [
     {
-      "description": ":art: Pattern",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Model View ViewModel (MVVM)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-07-25T13:30:32Z",
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1518
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Model View Intent (MVI)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-07-25T13:30:32Z",
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1518
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Other",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-07-25T13:30:32Z",
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1518
-          }
-        }
-      ],
-      "title": "Contents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":art: Pattern"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/JetNews",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Jetchat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Jetsurvey",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Jetsnack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Jetcaster",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Rally",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Crane",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/compose-samples/tree/master/Owl",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/android/sunflower/tree/compose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2024-08-02T10:26:55Z",
-            "owner": "android",
-            "repo": "sunflower",
-            "stars": 17766
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Shabinder/SpotiFlyer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-10-06T22:16:49Z",
-            "owner": "Shabinder",
-            "repo": "SpotiFlyer",
-            "stars": 11234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Gurupreet/ComposeCookBook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-28T12:31:21Z",
-            "owner": "Gurupreet",
-            "repo": "ComposeCookBook",
-            "stars": 6865
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/chrisbanes/tivi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2024-11-12T18:56:00Z",
-            "owner": "chrisbanes",
-            "repo": "tivi",
-            "stars": 6728
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/joreilly/PeopleInSpace",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-16T17:27:20Z",
-            "owner": "joreilly",
-            "repo": "PeopleInSpace",
-            "stars": 3419
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/PatilShreyas/NotyKT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-04-23T02:23:34Z",
-            "owner": "PatilShreyas",
-            "repo": "NotyKT",
-            "stars": 1768
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/skydoves/DisneyCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-05-28T09:03:29Z",
-            "owner": "skydoves",
-            "repo": "DisneyCompose",
-            "stars": 974
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/hitherejoe/ComposeAcademy-Playground",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-04-08T05:27:36Z",
-            "owner": "hitherejoe",
-            "repo": "ComposeAcademy-Playground",
-            "stars": 968
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/DroidKaigi/conference-app-2021",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-01-13T23:28:27Z",
-            "owner": "DroidKaigi",
-            "repo": "conference-app-2021",
-            "stars": 637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/tylerbwong/stack/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-04-04T15:10:47Z",
-            "owner": "tylerbwong",
-            "repo": "stack",
-            "stars": 577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Elbehiry/Delish",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2023-03-20T11:55:27Z",
-            "owner": "melbehiry",
-            "repo": "Delish",
-            "stars": 530
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/romainguy/sample-materials-shop",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-06-13T15:39:24Z",
-            "owner": "romainguy",
-            "repo": "sample-materials-shop",
-            "stars": 509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/FunkyMuse/Aurora",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2024-05-22T01:22:38Z",
-            "owner": "FunkyMuse",
-            "repo": "Aurora",
-            "stars": 507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/TakuSemba/JetHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-03-19T20:02:40Z",
-            "owner": "TakuSemba",
-            "repo": "JetHub",
-            "stars": 450
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/hitherejoe/minimise",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-23T19:51:17Z",
-            "owner": "hitherejoe",
-            "repo": "minimise",
-            "stars": 444
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/fabirt/podcast-app",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-06-22T05:24:41Z",
-            "owner": "fabirt",
-            "repo": "podcast-app",
-            "stars": 428
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/zedlabs/WallPortal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-01-15T20:55:52Z",
-            "owner": "zedlabs",
-            "repo": "WallPortal",
-            "stars": 400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/hitanshu-dhawan/McCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-04-07T14:10:06Z",
-            "owner": "hitanshu-dhawan",
-            "repo": "McCompose",
-            "stars": 371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/MaciejCiemiega/NewtonsTimer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-03-28T14:13:56Z",
-            "owner": "MaciejCiemiega",
-            "repo": "NewtonsTimer",
-            "stars": 367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/gastsail/JetExample",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-01-31T15:18:04Z",
-            "owner": "gastsail",
-            "repo": "JetExample",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/AnkitSuda/Rebound",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2024-03-18T16:54:27Z",
-            "owner": "AnkitSuda",
-            "repo": "Rebound",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/AlexZhukovich/CoffeeDrinksWithJetpackCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-05-11T20:41:59Z",
-            "owner": "AlexZhukovich",
-            "repo": "CoffeeDrinksWithJetpackCompose",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/rajandev17/Plasma/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-12-31T14:58:38Z",
-            "owner": "rajandev17",
-            "repo": "Plasma",
-            "stars": 154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EugeneTheDev/TaigaMobile",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2022-08-11T11:12:22Z",
-            "owner": "EugeneTheDev",
-            "repo": "TaigaMobile",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ahmed7official/Facebook-Timeline-Compose-Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-03-13T20:20:55Z",
-            "owner": "ahmed7official",
-            "repo": "Facebook-Timeline-Compose-Android",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/nezih94/chromie",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-05-03T17:59:24Z",
-            "owner": "nezih94",
-            "repo": "chromie",
-            "stars": 128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ashar-7/JetMessenger",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-11-12T16:55:19Z",
-            "owner": "ashar-7",
-            "repo": "JetMessenger",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/adrianblancode/Cheddar/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-01-11T20:03:08Z",
-            "owner": "adrianblancode",
-            "repo": "Cheddar",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/sunny52525/JetSpotify",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-03-29T09:17:06Z",
-            "owner": "sunny52525",
-            "repo": "JetSpotify",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/shinhyo/Compose-BreakingBad",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-10-13T02:46:28Z",
-            "owner": "shinhyo",
-            "repo": "Compose-BreakingBad",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/hi-manshu/ComposePictures",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-11-26T06:31:16Z",
-            "owner": "hi-manshu",
-            "repo": "ComposePictures",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Plastix/Buzz",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-04-04T01:33:48Z",
-            "owner": "Plastix",
-            "repo": "Buzz",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/adityam49/Updoot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-04-18T17:12:43Z",
-            "owner": "adityam49",
-            "repo": "Updoot",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/keygenqt/android-GitHubViewer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-10-27T19:11:56Z",
-            "owner": "keygenqt",
-            "repo": "android-GitHubViewer",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/QArtur99/Compose-ShoppingList",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-11-23T00:32:43Z",
-            "owner": "QArtur99",
-            "repo": "Compose-ShoppingList",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/keygenqt/android-DemoCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-10-27T19:12:34Z",
-            "owner": "keygenqt",
-            "repo": "android-DemoCompose",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/iambaljeet/GitReposCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-08-08T18:50:41Z",
-            "owner": "iambaljeet",
-            "repo": "GitReposCompose",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/kasem-sm/RocketXDelight-Playground",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-12-10T17:32:18Z",
-            "owner": "kasem-sm",
-            "repo": "RocketXDelight-Playground",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Akashkamble/Newzz-Compose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-03-18T07:33:22Z",
-            "owner": "Akashkamble",
-            "repo": "Newzz-Compose",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/jitinsharma/android-conferences",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-06-02T10:45:15Z",
-            "owner": "jitinsharma",
-            "repo": "android-conferences",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/a914-gowtham/RickNMortyCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-04-04T09:45:41Z",
-            "owner": "a914-gowtham",
-            "repo": "RickNMortyCompose",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/stackinflow/AndroidAppTemplate",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-01-12T15:28:56Z",
-            "owner": "stackinflow",
-            "repo": "AndroidAppTemplate",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/yashovardhan99/ComposeNotes/",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2020-09-17T15:48:03Z",
-            "owner": "yashovardhan99",
-            "repo": "ComposeNotes",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/jeremyrempel/yahnapp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-03-10T02:56:49Z",
-            "owner": "jeremyrempel",
-            "repo": "yahnapp",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/lionuncle/teamscope",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-10-10T15:35:26Z",
-            "owner": "lionuncle",
-            "repo": "teamscope",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/jpaya17/englishisfun/",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "MVVM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-05-09T11:38:19Z",
-            "owner": "SimformSolutionsPvtLtd",
-            "repo": "SSComposeCookBook",
-            "stars": 726
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/vipulasri/JetDelivery",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-07-19T09:39:09Z",
-            "owner": "vipulasri",
-            "repo": "JetDelivery",
-            "stars": 433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/savvasdalkitsis/uhuruphotos-android/",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "🖼️ UhuruPhotos",
-              "description": "is an Android client for LibrePhotos written using the latest Android technologies, like Jetpack Compose, SQLDelight, Coroutines etc using an MVI architecture.",
+              "title": "https://github.com/android/compose-samples/tree/master/JetNews",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Jetchat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Jetsurvey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Jetsnack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Jetcaster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Rally",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Crane",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/compose-samples/tree/master/Owl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/android/sunflower/tree/compose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 134505361,
+                "language": "Kotlin",
+                "last_commit": "2024-08-02T10:26:55Z",
+                "owner": "android",
+                "repo": "sunflower",
+                "stars": 17766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Shabinder/SpotiFlyer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279966127,
+                "language": "Kotlin",
+                "last_commit": "2024-10-06T22:16:49Z",
+                "owner": "Shabinder",
+                "repo": "SpotiFlyer",
+                "stars": 11234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Gurupreet/ComposeCookBook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293227683,
+                "language": "Kotlin",
+                "last_commit": "2026-06-28T12:31:21Z",
+                "owner": "Gurupreet",
+                "repo": "ComposeCookBook",
+                "stars": 6865
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/chrisbanes/tivi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 100624553,
+                "language": "Kotlin",
+                "last_commit": "2024-11-12T18:56:00Z",
+                "owner": "chrisbanes",
+                "repo": "tivi",
+                "stars": 6728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/joreilly/PeopleInSpace",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229625157,
+                "language": "Kotlin",
+                "last_commit": "2026-08-16T17:27:20Z",
+                "owner": "joreilly",
+                "repo": "PeopleInSpace",
+                "stars": 3419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/PatilShreyas/NotyKT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303164275,
+                "language": "Kotlin",
+                "last_commit": "2026-04-23T02:23:34Z",
+                "owner": "PatilShreyas",
+                "repo": "NotyKT",
+                "stars": 1768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/skydoves/DisneyCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296298489,
+                "language": "Kotlin",
+                "last_commit": "2023-05-28T09:03:29Z",
+                "owner": "skydoves",
+                "repo": "DisneyCompose",
+                "stars": 974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hitherejoe/ComposeAcademy-Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265163836,
+                "language": "Kotlin",
+                "last_commit": "2021-04-08T05:27:36Z",
+                "owner": "hitherejoe",
+                "repo": "ComposeAcademy-Playground",
+                "stars": 968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/DroidKaigi/conference-app-2021",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283062475,
+                "language": "Kotlin",
+                "last_commit": "2022-01-13T23:28:27Z",
+                "owner": "DroidKaigi",
+                "repo": "conference-app-2021",
+                "stars": 637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tylerbwong/stack/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125782473,
+                "language": "Kotlin",
+                "last_commit": "2025-04-04T15:10:47Z",
+                "owner": "tylerbwong",
+                "repo": "stack",
+                "stars": 577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Elbehiry/Delish",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 349764209,
+                "language": "Kotlin",
+                "last_commit": "2023-03-20T11:55:27Z",
+                "owner": "melbehiry",
+                "repo": "Delish",
+                "stars": 530
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/romainguy/sample-materials-shop",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271418672,
+                "language": "Kotlin",
+                "last_commit": "2024-06-13T15:39:24Z",
+                "owner": "romainguy",
+                "repo": "sample-materials-shop",
+                "stars": 509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/FunkyMuse/Aurora",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 342379062,
+                "language": "Kotlin",
+                "last_commit": "2024-05-22T01:22:38Z",
+                "owner": "FunkyMuse",
+                "repo": "Aurora",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/TakuSemba/JetHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163260752,
+                "language": "Kotlin",
+                "last_commit": "2026-03-19T20:02:40Z",
+                "owner": "TakuSemba",
+                "repo": "JetHub",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hitherejoe/minimise",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229124591,
+                "language": "Kotlin",
+                "last_commit": "2026-06-23T19:51:17Z",
+                "owner": "hitherejoe",
+                "repo": "minimise",
+                "stars": 444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/fabirt/podcast-app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363528627,
+                "language": "Kotlin",
+                "last_commit": "2022-06-22T05:24:41Z",
+                "owner": "fabirt",
+                "repo": "podcast-app",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/zedlabs/WallPortal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204511323,
+                "language": "Kotlin",
+                "last_commit": "2026-01-15T20:55:52Z",
+                "owner": "zedlabs",
+                "repo": "WallPortal",
+                "stars": 400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hitanshu-dhawan/McCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300496933,
+                "language": "Kotlin",
+                "last_commit": "2023-04-07T14:10:06Z",
+                "owner": "hitanshu-dhawan",
+                "repo": "McCompose",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/MaciejCiemiega/NewtonsTimer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344216299,
+                "language": "Kotlin",
+                "last_commit": "2024-03-28T14:13:56Z",
+                "owner": "MaciejCiemiega",
+                "repo": "NewtonsTimer",
+                "stars": 367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/gastsail/JetExample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292722490,
+                "language": "Kotlin",
+                "last_commit": "2022-01-31T15:18:04Z",
+                "owner": "gastsail",
+                "repo": "JetExample",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AnkitSuda/Rebound",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 402996977,
+                "language": "Kotlin",
+                "last_commit": "2024-03-18T16:54:27Z",
+                "owner": "AnkitSuda",
+                "repo": "Rebound",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/AlexZhukovich/CoffeeDrinksWithJetpackCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234954828,
+                "language": "Kotlin",
+                "last_commit": "2022-05-11T20:41:59Z",
+                "owner": "AlexZhukovich",
+                "repo": "CoffeeDrinksWithJetpackCompose",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/rajandev17/Plasma/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308975838,
+                "language": "Kotlin",
+                "last_commit": "2021-12-31T14:58:38Z",
+                "owner": "rajandev17",
+                "repo": "Plasma",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EugeneTheDev/TaigaMobile",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 345475827,
+                "language": "Kotlin",
+                "last_commit": "2022-08-11T11:12:22Z",
+                "owner": "EugeneTheDev",
+                "repo": "TaigaMobile",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ahmed7official/Facebook-Timeline-Compose-Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343558508,
+                "language": "Kotlin",
+                "last_commit": "2021-03-13T20:20:55Z",
+                "owner": "ahmed7official",
+                "repo": "Facebook-Timeline-Compose-Android",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/nezih94/chromie",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344540855,
+                "language": "Kotlin",
+                "last_commit": "2023-05-03T17:59:24Z",
+                "owner": "nezih94",
+                "repo": "chromie",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ashar-7/JetMessenger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297098336,
+                "language": "Kotlin",
+                "last_commit": "2020-11-12T16:55:19Z",
+                "owner": "ashar-7",
+                "repo": "JetMessenger",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/adrianblancode/Cheddar/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39693402,
+                "language": "Kotlin",
+                "last_commit": "2026-01-11T20:03:08Z",
+                "owner": "adrianblancode",
+                "repo": "Cheddar",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/sunny52525/JetSpotify",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369560105,
+                "language": "Kotlin",
+                "last_commit": "2024-03-29T09:17:06Z",
+                "owner": "sunny52525",
+                "repo": "JetSpotify",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/shinhyo/Compose-BreakingBad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347642471,
+                "language": "Kotlin",
+                "last_commit": "2025-10-13T02:46:28Z",
+                "owner": "shinhyo",
+                "repo": "Compose-BreakingBad",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/hi-manshu/ComposePictures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309034979,
+                "language": "Kotlin",
+                "last_commit": "2020-11-26T06:31:16Z",
+                "owner": "hi-manshu",
+                "repo": "ComposePictures",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Plastix/Buzz",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349895016,
+                "language": "Kotlin",
+                "last_commit": "2024-04-04T01:33:48Z",
+                "owner": "Plastix",
+                "repo": "Buzz",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/adityam49/Updoot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186289445,
+                "language": "Kotlin",
+                "last_commit": "2023-04-18T17:12:43Z",
+                "owner": "adityam49",
+                "repo": "Updoot",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/keygenqt/android-GitHubViewer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367717930,
+                "language": "Kotlin",
+                "last_commit": "2022-10-27T19:11:56Z",
+                "owner": "keygenqt",
+                "repo": "android-GitHubViewer",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/QArtur99/Compose-ShoppingList",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257728603,
+                "language": "Kotlin",
+                "last_commit": "2023-11-23T00:32:43Z",
+                "owner": "QArtur99",
+                "repo": "Compose-ShoppingList",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/keygenqt/android-DemoCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395565985,
+                "language": "Kotlin",
+                "last_commit": "2022-10-27T19:12:34Z",
+                "owner": "keygenqt",
+                "repo": "android-DemoCompose",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/iambaljeet/GitReposCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300704772,
+                "language": "Kotlin",
+                "last_commit": "2021-08-08T18:50:41Z",
+                "owner": "iambaljeet",
+                "repo": "GitReposCompose",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/kasem-sm/RocketXDelight-Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408881519,
+                "language": "Kotlin",
+                "last_commit": "2021-12-10T17:32:18Z",
+                "owner": "kasem-sm",
+                "repo": "RocketXDelight-Playground",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Akashkamble/Newzz-Compose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270335322,
+                "language": "Kotlin",
+                "last_commit": "2022-03-18T07:33:22Z",
+                "owner": "Akashkamble",
+                "repo": "Newzz-Compose",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jitinsharma/android-conferences",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257660003,
+                "language": "Kotlin",
+                "last_commit": "2022-06-02T10:45:15Z",
+                "owner": "jitinsharma",
+                "repo": "android-conferences",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/a914-gowtham/RickNMortyCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381371743,
+                "language": "Kotlin",
+                "last_commit": "2024-04-04T09:45:41Z",
+                "owner": "a914-gowtham",
+                "repo": "RickNMortyCompose",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/stackinflow/AndroidAppTemplate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281930970,
+                "language": "Kotlin",
+                "last_commit": "2021-01-12T15:28:56Z",
+                "owner": "stackinflow",
+                "repo": "AndroidAppTemplate",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/yashovardhan99/ComposeNotes/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 291337361,
+                "language": "Kotlin",
+                "last_commit": "2020-09-17T15:48:03Z",
+                "owner": "yashovardhan99",
+                "repo": "ComposeNotes",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/jeremyrempel/yahnapp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296998650,
+                "language": "Kotlin",
+                "last_commit": "2023-03-10T02:56:49Z",
+                "owner": "jeremyrempel",
+                "repo": "yahnapp",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/lionuncle/teamscope",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299523745,
+                "language": "Kotlin",
+                "last_commit": "2020-10-10T15:35:26Z",
+                "owner": "lionuncle",
+                "repo": "teamscope",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MVVM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379199800,
+                "language": "Kotlin",
+                "last_commit": "2025-05-09T11:38:19Z",
+                "owner": "SimformSolutionsPvtLtd",
+                "repo": "SSComposeCookBook",
+                "stars": 726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/vipulasri/JetDelivery",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234803255,
+                "language": "Kotlin",
+                "last_commit": "2022-07-19T09:39:09Z",
+                "owner": "vipulasri",
+                "repo": "JetDelivery",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/savvasdalkitsis/uhuruphotos-android/",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🖼️ UhuruPhotos",
+                  "description": "is an Android client for LibrePhotos written using the latest Android technologies, like Jetpack Compose, SQLDelight, Coroutines etc using an MVI architecture.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 485908521,
+                    "language": "Kotlin",
+                    "last_commit": "2026-08-18T00:18:17Z",
+                    "owner": "savvasdalkitsis",
+                    "repo": "uhuruphotos-android",
+                    "stars": 401
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 485908521,
                 "language": "Kotlin",
                 "last_commit": "2026-08-18T00:18:17Z",
                 "owner": "savvasdalkitsis",
                 "repo": "uhuruphotos-android",
                 "stars": 401
               }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Popalay/Tracktor-ComposeUI/",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274828773,
+                "language": "Kotlin",
+                "last_commit": "2026-06-29T01:52:48Z",
+                "owner": "Popalay",
+                "repo": "Tracktor-ComposeUI",
+                "stars": 42
+              }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T00:18:17Z",
-            "owner": "savvasdalkitsis",
-            "repo": "uhuruphotos-android",
-            "stars": 401
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "MVI"
         },
         {
-          "node_type": "item",
-          "title": "https://github.com/Popalay/Tracktor-ComposeUI/",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/IReaderorg/IReader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425288628,
+                "language": "Kotlin",
+                "last_commit": "2026-08-06T16:50:22Z",
+                "owner": "IReaderorg",
+                "repo": "IReader",
+                "stars": 922
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/vipulasri/JetInstagram",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292028144,
+                "language": "Kotlin",
+                "last_commit": "2022-07-09T18:24:00Z",
+                "owner": "vipulasri",
+                "repo": "JetInstagram",
+                "stars": 841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/zsoltk/compose-pokedex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232925606,
+                "language": "Kotlin",
+                "last_commit": "2022-05-10T18:32:52Z",
+                "owner": "zsoltk",
+                "repo": "compose-pokedex",
+                "stars": 797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261391043,
+                "language": "Kotlin",
+                "last_commit": "2024-02-19T00:41:40Z",
+                "owner": "MindorksOpenSource",
+                "repo": "Jetpack-Compose-WhatsApp-Clone",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Spikeysanju/JetQuotes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296253606,
+                "language": "Kotlin",
+                "last_commit": "2024-04-16T13:57:16Z",
+                "owner": "Spikeysanju",
+                "repo": "JetQuotes",
+                "stars": 550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/prafullmishra/JetComposer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379183596,
+                "language": "Kotlin",
+                "last_commit": "2021-10-23T10:19:14Z",
+                "owner": "prafullmishra",
+                "repo": "JetComposer",
+                "stars": 471
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366930914,
+                "language": "Kotlin",
+                "last_commit": "2024-11-25T15:03:47Z",
+                "owner": "SimformSolutionsPvtLtd",
+                "repo": "SSJetPackComposeProgressButton",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wajahatkarim3/DinoCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290590523,
+                "language": "Kotlin",
+                "last_commit": "2022-01-09T18:50:26Z",
+                "owner": "wajahatkarim3",
+                "repo": "DinoCompose",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/iambaljeet/TwitterCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291519478,
+                "language": "Kotlin",
+                "last_commit": "2020-12-11T18:39:42Z",
+                "owner": "iambaljeet",
+                "repo": "TwitterCompose",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/andkulikov/compose-photoapp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266622284,
+                "language": "Kotlin",
+                "last_commit": "2023-09-04T16:23:39Z",
+                "owner": "andkulikov",
+                "repo": "compose-photoapp",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/Hessam-Emami/SnappCompose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296891380,
+                "language": "Kotlin",
+                "last_commit": "2020-10-29T08:06:09Z",
+                "owner": "Hessam-Emami",
+                "repo": "SnappCompose",
+                "stars": 76
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-29T01:52:48Z",
-            "owner": "Popalay",
-            "repo": "Tracktor-ComposeUI",
-            "stars": 42
-          }
+          "node_type": "group",
+          "title": "Other"
         }
       ],
-      "title": "MVI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/IReaderorg/IReader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-06T16:50:22Z",
-            "owner": "IReaderorg",
-            "repo": "IReader",
-            "stars": 921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/vipulasri/JetInstagram",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-07-09T18:24:00Z",
-            "owner": "vipulasri",
-            "repo": "JetInstagram",
-            "stars": 841
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/zsoltk/compose-pokedex",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-05-10T18:32:52Z",
-            "owner": "zsoltk",
-            "repo": "compose-pokedex",
-            "stars": 797
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-02-19T00:41:40Z",
-            "owner": "MindorksOpenSource",
-            "repo": "Jetpack-Compose-WhatsApp-Clone",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Spikeysanju/JetQuotes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-04-16T13:57:16Z",
-            "owner": "Spikeysanju",
-            "repo": "JetQuotes",
-            "stars": 550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/prafullmishra/JetComposer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-10-23T10:19:14Z",
-            "owner": "prafullmishra",
-            "repo": "JetComposer",
-            "stars": 471
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-11-25T15:03:47Z",
-            "owner": "SimformSolutionsPvtLtd",
-            "repo": "SSJetPackComposeProgressButton",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/wajahatkarim3/DinoCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-01-09T18:50:26Z",
-            "owner": "wajahatkarim3",
-            "repo": "DinoCompose",
-            "stars": 285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/iambaljeet/TwitterCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-12-11T18:39:42Z",
-            "owner": "iambaljeet",
-            "repo": "TwitterCompose",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/andkulikov/compose-photoapp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-09-04T16:23:39Z",
-            "owner": "andkulikov",
-            "repo": "compose-photoapp",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/Hessam-Emami/SnappCompose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-10-29T08:06:09Z",
-            "owner": "Hessam-Emami",
-            "repo": "SnappCompose",
-            "stars": 76
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "See contributing.md",
-      "items": [],
-      "title": ":memo: Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":computer: Find us on"
+      "title": ":art: Pattern"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:27:27.971Z",
+    "last_updated": "2026-08-19T12:36:02.206Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-android-apps",
+    "original_repository_id": 291133502,
     "original_repository_sha": "a21461ae6e03707f46ef1967b6f7ed91cdc72b14",
     "enhanced_repository": "enhansome/enhansome-jetpack-compose-android-apps",
     "enhanced_repository_description": null,
