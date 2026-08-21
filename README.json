@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 211288349,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T09:01:09Z",
+                "last_commit": "2026-08-20T15:18:51Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23387
+                "stars": 23392
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2024-10-06T22:16:49Z",
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11234
+                "stars": 11238
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-06-28T12:31:21Z",
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6865
+                "stars": 6868
               }
             },
             {
@@ -902,7 +902,7 @@
                 "last_commit": "2026-08-06T16:50:22Z",
                 "owner": "IReaderorg",
                 "repo": "IReader",
-                "stars": 923
+                "stars": 922
               }
             },
             {
@@ -1065,7 +1065,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:27:01.012Z",
+    "last_updated": "2026-08-21T03:32:34.359Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-android-apps",
     "original_repository_id": 291133502,
     "original_repository_sha": "a21461ae6e03707f46ef1967b6f7ed91cdc72b14",
