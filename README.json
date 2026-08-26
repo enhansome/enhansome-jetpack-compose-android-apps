@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-21T10:08:21Z",
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23402
+                "stars": 23406
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2024-10-06T22:16:49Z",
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11248
+                "stars": 11249
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2021-04-08T05:27:36Z",
                 "owner": "hitherejoe",
                 "repo": "ComposeAcademy-Playground",
-                "stars": 968
+                "stars": 967
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2022-06-22T05:24:41Z",
                 "owner": "fabirt",
                 "repo": "podcast-app",
-                "stars": 428
+                "stars": 429
               }
             },
             {
@@ -950,7 +950,7 @@
                     "last_commit": "2026-08-23T03:58:38Z",
                     "owner": "savvasdalkitsis",
                     "repo": "uhuruphotos-android",
-                    "stars": 401
+                    "stars": 402
                   }
                 }
               ],
@@ -961,7 +961,7 @@
                 "last_commit": "2026-08-23T03:58:38Z",
                 "owner": "savvasdalkitsis",
                 "repo": "uhuruphotos-android",
-                "stars": 401
+                "stars": 402
               }
             },
             {
@@ -995,10 +995,10 @@
                 "archived": false,
                 "id": 425288628,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T19:59:00Z",
+                "last_commit": "2026-08-26T03:23:27Z",
                 "owner": "IReaderorg",
                 "repo": "IReader",
-                "stars": 923
+                "stars": 924
               }
             },
             {
@@ -1013,7 +1013,7 @@
                 "last_commit": "2022-07-09T18:24:00Z",
                 "owner": "vipulasri",
                 "repo": "JetInstagram",
-                "stars": 843
+                "stars": 844
               }
             },
             {
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:58.511Z",
+    "last_updated": "2026-08-26T03:36:04.298Z",
     "original_repository": "androiddevnotes/awesome-jetpack-compose-android-apps",
     "original_repository_id": 291133502,
     "original_repository_sha": "a21461ae6e03707f46ef1967b6f7ed91cdc72b14",
