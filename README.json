@@ -488,7 +488,7 @@
                 "open_issues": 571,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11250,
+                "stars": 11251,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -588,7 +588,7 @@
                 "open_issues": 12,
                 "owner": "joreilly",
                 "repo": "PeopleInSpace",
-                "stars": 3426,
+                "stars": 3427,
                 "topics": [
                   "android",
                   "compose-desktop",
@@ -1852,7 +1852,7 @@
                     "id": 485908521,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T22:39:51Z",
+                    "last_commit": "2026-09-03T13:59:24Z",
                     "open_issues": 66,
                     "owner": "savvasdalkitsis",
                     "repo": "uhuruphotos-android",
@@ -1878,7 +1878,7 @@
                 "id": 485908521,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T22:39:51Z",
+                "last_commit": "2026-09-03T13:59:24Z",
                 "open_issues": 66,
                 "owner": "savvasdalkitsis",
                 "repo": "uhuruphotos-android",
@@ -1946,8 +1946,8 @@
                 "id": 425288628,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T02:14:42Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-04T01:40:40Z",
+                "open_issues": 14,
                 "owner": "IReaderorg",
                 "repo": "IReader",
                 "stars": 927,
@@ -2286,7 +2286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:21:57.781Z",
+    "last_updated": "2026-09-04T07:24:11.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
