@@ -40,49 +40,49 @@
 
 ### MVVM
 
-* <https://github.com/android/compose-samples/tree/master/JetNews> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/JetNews> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * Jetnews is a sample news reading app, built with Jetpack Compose. The goal of the sample is to showcase the current UI capabilities of Compose.
 
   * Tech Stack = Testing, Coroutines, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Jetchat> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Jetchat> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * Jetchat is a sample chat app built with Jetpack Compose.
 
   * Tech Stack = Testing, Coroutines, Navigation, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Jetsurvey> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Jetsurvey> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * A sample survey app that showcases text input, validation and UI state management in Compose.
 
   * Tech Stack = Testing, Coroutines, Navigation, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Jetsnack> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Jetsnack> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * Jetsnack is a sample snack ordering app built with Compose.
 
   * Tech Stack = Testing, Coroutines, Navigation, Accompanist, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Jetcaster> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Jetcaster> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * A sample podcast app that features a full-featured, Redux-style architecture and showcases dynamic themes.
 
   * Tech Stack = Testing, Coroutines, Room, OkHttp, Rome, Navigation, Accompanist, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Rally> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Rally> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * A Compose implementation of the Rally Material study, a financial app that focuses on data, charts, reusability, and animations.
 
   * Tech Stack = Testing, Coroutines, Navigation, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Crane> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Crane> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * A Compose implementation of the Crane Material study, a travel app that uses Material Design components and Material Theming to create a personalized, on-brand experience
 
   * Tech Stack = Testing, Coroutines, LiveData, ViewModel, Compose
 
-* <https://github.com/android/compose-samples/tree/master/Owl> ⭐ 23,474 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
+* <https://github.com/android/compose-samples/tree/master/Owl> ⭐ 23,476 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-21
 
   * A Compose implementation of the Owl Material study. The Owl brand uses bold color, shape, and typography to express its brand attributes: energy, daring, and fun.
 
@@ -94,7 +94,7 @@
 
   * Tech Stack = Testing, Coroutines, Room, WorkManager, Accompanist, Navigation, LiveData, ViewModel, Compose
 
-* <https://github.com/Shabinder/SpotiFlyer> ⭐ 11,275 | 🐛 571 | 🌐 Kotlin | 📅 2024-10-06
+* <https://github.com/Shabinder/SpotiFlyer> ⭐ 11,276 | 🐛 571 | 🌐 Kotlin | 📅 2024-10-06
 
   * Spotify/Gaana/Youtube Music Downloader For Android!
 
@@ -118,7 +118,7 @@
 
   * Tech Stack = Koin, Coroutines, SQLDelight, Accompanist, ViewModel, Compose
 
-* <https://github.com/PatilShreyas/NotyKT> ⭐ 1,768 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23
+* <https://github.com/PatilShreyas/NotyKT> ⭐ 1,767 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23
 
   * 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 
@@ -268,17 +268,17 @@
 
   * Tech Stack = Navigation, Dagger Hilt, Coroutines + Flow, Retrofit, Room, ViewModel, Accompanist, Compose
 
+* <https://github.com/Plastix/Buzz> ⭐ 95 | 🐛 1 | 🌐 Kotlin | 📅 2024-04-04
+
+  * Buzz, a Spelling bee App in Jetpack Compose. With 7 letters displayed in hexagonal cells, the App's concept is to spell the greatest number of words correctly.
+
+  * Tech Stack = Dagger Hilt, Coroutines, OkHttp, Room, SQLDelight, LiveData, ViewModel, Compose
+
 * <https://github.com/hi-manshu/ComposePictures> ⭐ 95 | 🐛 0 | 🌐 Kotlin | 📅 2020-11-26
 
   * This is a project built using Jetpack Compose on UI, Clean architecture, Dagger Hilt, Kotlin Flow, Navigation Components etc.
 
   * Tech Stack = Dagger Hilt, Coroutines, Retrofit, Firebase Auth, Navigation, LiveData, ViewModel, Compose
-
-* <https://github.com/Plastix/Buzz> ⭐ 94 | 🐛 1 | 🌐 Kotlin | 📅 2024-04-04
-
-  * Buzz, a Spelling bee App in Jetpack Compose. With 7 letters displayed in hexagonal cells, the App's concept is to spell the greatest number of words correctly.
-
-  * Tech Stack = Dagger Hilt, Coroutines, OkHttp, Room, SQLDelight, LiveData, ViewModel, Compose
 
 * <https://github.com/adityam49/Updoot> ⭐ 75 | 🐛 0 | 🌐 Kotlin | 📅 2023-04-18
 
@@ -378,7 +378,7 @@
 
 * <https://github.com/savvasdalkitsis/uhuruphotos-android/> ⭐ 404 | 🐛 66 | 🌐 Kotlin | 📅 2026-09-16
 
-  * 🖼️ [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android/) ⭐ 404 | 🐛 66 | 🌐 Kotlin | 📅 2026-09-16 is an Android client for [LibrePhotos](https://github.com/LibrePhotos/librephotos/) ⭐ 8,081 | 🐛 157 | 🌐 Python | 📅 2026-09-21 written using the latest Android technologies, like Jetpack Compose, SQLDelight, Coroutines etc using an MVI architecture.
+  * 🖼️ [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android/) ⭐ 404 | 🐛 66 | 🌐 Kotlin | 📅 2026-09-16 is an Android client for [LibrePhotos](https://github.com/LibrePhotos/librephotos/) ⭐ 8,083 | 🐛 158 | 🌐 Python | 📅 2026-09-21 written using the latest Android technologies, like Jetpack Compose, SQLDelight, Coroutines etc using an MVI architecture.
 
   * It borrows a lot of ideas from Google Photos and aims to become a full featured photo album replacement, including features like offline support, backup and sync etc.
 
@@ -390,7 +390,7 @@
 
 ### Other
 
-* <https://github.com/IReaderorg/IReader> ⭐ 947 | 🐛 16 | 🌐 Kotlin | 📅 2026-09-19
+* <https://github.com/IReaderorg/IReader> ⭐ 950 | 🐛 16 | 🌐 Kotlin | 📅 2026-09-19
   * Free novel reader.
   * Tech Stack = Coroutine, Room, Ktor, Compose, Hilt, Multi-Module
 
@@ -459,7 +459,7 @@
 
 ## :books: Tech Stack/Libraries
 
-* [Compose](https://developer.android.com/jetpack/compose), [Accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,835 | 🐛 12 | 🌐 Kotlin | 📅 2025-08-18, [rome](https://github.com/rometools/rome) ⭐ 954 | 🐛 29 | 🌐 Java | 📅 2024-08-08, [RainbowCake](https://github.com/rainbowcake/rainbowcake) ⚠️ Archived, [chucker](https://github.com/ChuckerTeam/chucker) ⭐ 4,566 | 🐛 79 | 🌐 Kotlin | 📅 2026-09-21, [klock](https://github.com/korlibs/klock) ⚠️ Archived, [Dropbox Store](https://github.com/dropbox/Store) ⭐ 3,420 | 🐛 56 | 🌐 Kotlin | 📅 2026-09-18, [Dagger](https://github.com/google/dagger) ⭐ 17,700 | 🐛 369 | 🌐 Java | 📅 2026-09-22, [Koin](https://github.com/InsertKoinIO/koin) ⭐ 10,020 | 🐛 74 | 🌐 Kotlin | 📅 2026-09-20, [Kodein](https://github.com/Kodein-Framework/Kodein-DI) ⭐ 3,336 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-21, [Inorichi Injekt](https://jitpack.io/p/inorichi/injekt), [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,816 | 🐛 345 | 🌐 Kotlin | 📅 2026-09-22, [Rx](https://github.com/ReactiveX/RxJava) ⭐ 48,191 | 🐛 11 | 🌐 Java | 📅 2026-09-21, [Testing](https://developer.android.com/studio/test), [Retrofit](https://github.com/square/retrofit) ⭐ 43,942 | 🐛 173 | 🌐 Java | 📅 2026-09-09, [Fuel](https://github.com/kittinunf/fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31, [Room](https://developer.android.com/topic/libraries/architecture/room), [Realm](https://github.com/realm/realm-java) ⭐ 11,456 | 🐛 394 | 🌐 Java | 📅 2025-09-15, [Firebase Products](https://firebase.google.com/), [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager), [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,937 | 🐛 627 | 🌐 Java | 📅 2025-12-23, [Paging](https://developer.android.com/topic/libraries/architecture/paging), [Navigation](https://developer.android.com/guide/navigation), [Lottie](https://github.com/airbnb/lottie-android) ⭐ 35,725 | 🐛 74 | 🌐 Java | 📅 2026-02-15, [Zoomy](https://github.com/imablanco/Zoomy) ⭐ 916 | 🐛 22 | 🌐 Java | 📅 2023-03-14, [JSoup](https://jsoup.org/download), [js-evaluator-for-android](https://github.com/evgenyneu/js-evaluator-for-android) ⭐ 485 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03, [Algolia Search](https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/quick-start-with-the-api-client/android/), [Conductor](https://github.com/bluelinelabs/Conductor) ⭐ 3,897 | 🐛 111 | 🌐 Java | 📅 2026-03-14, [Call Control DataShare](https://github.com/CallControl/Call-Control-DataShare) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2022-01-24, [libphonenumber-android](https://github.com/MichaelRocks/libphonenumber-android) ⭐ 547 | 🐛 0 | 🌐 Java | 📅 2026-09-03, [Mixpanel Android](https://github.com/mixpanel/mixpanel-android) ⭐ 1,047 | 🐛 28 | 🌐 Java | 📅 2026-09-16, [Venom](https://github.com/YarikSOffice/venom) ⭐ 310 | 🐛 1 | 🌐 Kotlin | 📅 2023-08-12, [FlowLayout](https://github.com/nex3z/FlowLayout) ⭐ 2,420 | 🐛 0 | 🌐 Java | 📅 2025-05-29, [ARCore](https://developers.google.com/ar/discover), [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) ⭐ 21,497 | 🐛 16 | 🌐 Java | 📅 2026-09-23, [PermissionX](https://github.com/guolindev/PermissionX) ⭐ 3,654 | 🐛 77 | 🌐 Kotlin | 📅 2024-08-29, [EventBus](https://github.com/greenrobot/EventBus) ⭐ 24,706 | 🐛 147 | 🌐 Java | 📅 2024-02-21, [Dynamicanimation](https://developer.android.com/jetpack/androidx/releases/dynamicanimation), [Google Drive](https://developers.google.com/drive/android), [Dropbox](https://github.com/dropbox), [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,170 | 🐛 2,066 | 🌐 Java | 📅 2026-09-22, [Facebook Products](https://developers.facebook.com/docs/facebook-login/android/), [PayPal](https://developer.paypal.com/docs/), [Stripe](https://github.com/stripe/stripe-android) ⭐ 1,539 | 🐛 200 | 🌐 Kotlin | 📅 2026-09-23, [Easy Permissions](https://github.com/googlesamples/easypermissions) ⚠️ Archived, [socketIO](https://socket.io/), [Dexter](https://github.com/Karumi/Dexter) ⚠️ Archived, [Tikxml](https://github.com/Tickaroo/tikxml) ⭐ 431 | 🐛 47 | 🌐 Java | 📅 2025-09-19, [Markwon](https://github.com/noties/Markwon) ⭐ 3,420 | 🐛 100 | 🌐 Java | 📅 2024-04-17, [Scarlet](https://github.com/Tinder/Scarlet) ⭐ 3,256 | 🐛 108 | 🌐 Kotlin | 📅 2025-11-21, [Android-Permissions](https://github.com/nabinbhandari/Android-Permissions) ⭐ 447 | 🐛 9 | 🌐 Java | 📅 2025-01-03, [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived, [android-upload-service](https://github.com/gotev/android-upload-service) ⭐ 2,854 | 🐛 3 | 🌐 Kotlin | 📅 2025-01-18, [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) ⭐ 11,151 | 🐛 31 | 🌐 Java | 📅 2023-11-10, [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) ⭐ 7,326 | 🐛 193 | 🌐 Java | 📅 2023-09-14, [ARouter](https://github.com/alibaba/ARouter) ⭐ 14,456 | 🐛 2 | 🌐 Java | 📅 2026-09-12, [Sandwich](https://github.com/skydoves/Sandwich) ⭐ 1,773 | 🐛 8 | 🌐 Kotlin | 📅 2026-09-18, [Calendar view](https://github.com/kizitonwose/CalendarView) ⭐ 5,602 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13, [Biometric](https://developer.android.com/jetpack/androidx/releases/biometric), [Pretty Time](https://github.com/ocpsoft/prettytime) ⭐ 1,324 | 🐛 30 | 🌐 Java | 📅 2025-09-29, [Markdown Processor](https://github.com/yydcdut/RxMarkdown) ⭐ 752 | 🐛 28 | 🌐 Java | 📅 2020-07-24, [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) ⚠️ Archived, [Duktape Android](https://github.com/square/duktape-android) ⭐ 2,303 | 🐛 109 | 🌐 C | 📅 2026-09-21, [Evernote android-job](https://github.com/evernote/android-job) ⭐ 5,345 | 🐛 4 | 🌐 Java | 📅 2022-07-13, [Facebook Litho](https://github.com/facebook/litho) ⭐ 7,800 | 🐛 116 | 🌐 Kotlin | 📅 2026-09-21, [Facebook SoLoader](https://github.com/facebook/SoLoader) ⭐ 1,442 | 🐛 40 | 🌐 Java | 📅 2026-08-26, [Data Binding](https://developer.android.com/topic/libraries/data-binding)
+* [Compose](https://developer.android.com/jetpack/compose), [Accompanist](https://github.com/chrisbanes/accompanist) ⭐ 7,835 | 🐛 12 | 🌐 Kotlin | 📅 2025-08-18, [rome](https://github.com/rometools/rome) ⭐ 954 | 🐛 29 | 🌐 Java | 📅 2024-08-08, [RainbowCake](https://github.com/rainbowcake/rainbowcake) ⚠️ Archived, [chucker](https://github.com/ChuckerTeam/chucker) ⭐ 4,567 | 🐛 79 | 🌐 Kotlin | 📅 2026-09-24, [klock](https://github.com/korlibs/klock) ⚠️ Archived, [Dropbox Store](https://github.com/dropbox/Store) ⭐ 3,420 | 🐛 56 | 🌐 Kotlin | 📅 2026-09-18, [Dagger](https://github.com/google/dagger) ⭐ 17,701 | 🐛 369 | 🌐 Java | 📅 2026-09-22, [Koin](https://github.com/InsertKoinIO/koin) ⭐ 10,022 | 🐛 74 | 🌐 Kotlin | 📅 2026-09-20, [Kodein](https://github.com/Kodein-Framework/Kodein-DI) ⭐ 3,335 | 🐛 7 | 🌐 Kotlin | 📅 2026-07-21, [Inorichi Injekt](https://jitpack.io/p/inorichi/injekt), [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,816 | 🐛 345 | 🌐 Kotlin | 📅 2026-09-23, [Rx](https://github.com/ReactiveX/RxJava) ⭐ 48,193 | 🐛 11 | 🌐 Java | 📅 2026-09-21, [Testing](https://developer.android.com/studio/test), [Retrofit](https://github.com/square/retrofit) ⭐ 43,944 | 🐛 173 | 🌐 Java | 📅 2026-09-09, [Fuel](https://github.com/kittinunf/fuel) ⭐ 4,648 | 🐛 99 | 🌐 Kotlin | 📅 2026-08-31, [Room](https://developer.android.com/topic/libraries/architecture/room), [Realm](https://github.com/realm/realm-java) ⭐ 11,457 | 🐛 394 | 🌐 Java | 📅 2025-09-15, [Firebase Products](https://firebase.google.com/), [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager), [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,938 | 🐛 627 | 🌐 Java | 📅 2025-12-23, [Paging](https://developer.android.com/topic/libraries/architecture/paging), [Navigation](https://developer.android.com/guide/navigation), [Lottie](https://github.com/airbnb/lottie-android) ⭐ 35,728 | 🐛 74 | 🌐 Java | 📅 2026-02-15, [Zoomy](https://github.com/imablanco/Zoomy) ⭐ 916 | 🐛 22 | 🌐 Java | 📅 2023-03-14, [JSoup](https://jsoup.org/download), [js-evaluator-for-android](https://github.com/evgenyneu/js-evaluator-for-android) ⭐ 485 | 🐛 22 | 🌐 JavaScript | 📅 2022-12-03, [Algolia Search](https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/quick-start-with-the-api-client/android/), [Conductor](https://github.com/bluelinelabs/Conductor) ⭐ 3,897 | 🐛 111 | 🌐 Java | 📅 2026-03-14, [Call Control DataShare](https://github.com/CallControl/Call-Control-DataShare) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2022-01-24, [libphonenumber-android](https://github.com/MichaelRocks/libphonenumber-android) ⭐ 547 | 🐛 0 | 🌐 Java | 📅 2026-09-03, [Mixpanel Android](https://github.com/mixpanel/mixpanel-android) ⭐ 1,047 | 🐛 28 | 🌐 Java | 📅 2026-09-16, [Venom](https://github.com/YarikSOffice/venom) ⭐ 310 | 🐛 1 | 🌐 Kotlin | 📅 2023-08-12, [FlowLayout](https://github.com/nex3z/FlowLayout) ⭐ 2,420 | 🐛 0 | 🌐 Java | 📅 2025-05-29, [ARCore](https://developers.google.com/ar/discover), [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) ⭐ 21,497 | 🐛 16 | 🌐 Java | 📅 2026-09-23, [PermissionX](https://github.com/guolindev/PermissionX) ⭐ 3,654 | 🐛 77 | 🌐 Kotlin | 📅 2024-08-29, [EventBus](https://github.com/greenrobot/EventBus) ⭐ 24,707 | 🐛 147 | 🌐 Java | 📅 2024-02-21, [Dynamicanimation](https://developer.android.com/jetpack/androidx/releases/dynamicanimation), [Google Drive](https://developers.google.com/drive/android), [Dropbox](https://github.com/dropbox), [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,171 | 🐛 2,066 | 🌐 Java | 📅 2026-09-22, [Facebook Products](https://developers.facebook.com/docs/facebook-login/android/), [PayPal](https://developer.paypal.com/docs/), [Stripe](https://github.com/stripe/stripe-android) ⭐ 1,539 | 🐛 194 | 🌐 Kotlin | 📅 2026-09-24, [Easy Permissions](https://github.com/googlesamples/easypermissions) ⚠️ Archived, [socketIO](https://socket.io/), [Dexter](https://github.com/Karumi/Dexter) ⚠️ Archived, [Tikxml](https://github.com/Tickaroo/tikxml) ⭐ 431 | 🐛 47 | 🌐 Java | 📅 2025-09-19, [Markwon](https://github.com/noties/Markwon) ⭐ 3,422 | 🐛 100 | 🌐 Java | 📅 2024-04-17, [Scarlet](https://github.com/Tinder/Scarlet) ⭐ 3,256 | 🐛 108 | 🌐 Kotlin | 📅 2025-11-21, [Android-Permissions](https://github.com/nabinbhandari/Android-Permissions) ⭐ 447 | 🐛 9 | 🌐 Java | 📅 2025-01-03, [RxPermissions](https://github.com/tbruyelle/RxPermissions) ⚠️ Archived, [android-upload-service](https://github.com/gotev/android-upload-service) ⭐ 2,854 | 🐛 3 | 🌐 Kotlin | 📅 2025-01-18, [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) ⭐ 11,151 | 🐛 31 | 🌐 Java | 📅 2023-11-10, [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) ⭐ 7,326 | 🐛 193 | 🌐 Java | 📅 2023-09-14, [ARouter](https://github.com/alibaba/ARouter) ⭐ 14,455 | 🐛 2 | 🌐 Java | 📅 2026-09-12, [Sandwich](https://github.com/skydoves/Sandwich) ⭐ 1,774 | 🐛 10 | 🌐 Kotlin | 📅 2026-09-24, [Calendar view](https://github.com/kizitonwose/CalendarView) ⭐ 5,602 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13, [Biometric](https://developer.android.com/jetpack/androidx/releases/biometric), [Pretty Time](https://github.com/ocpsoft/prettytime) ⭐ 1,324 | 🐛 30 | 🌐 Java | 📅 2025-09-29, [Markdown Processor](https://github.com/yydcdut/RxMarkdown) ⭐ 752 | 🐛 28 | 🌐 Java | 📅 2020-07-24, [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) ⚠️ Archived, [Duktape Android](https://github.com/square/duktape-android) ⭐ 2,303 | 🐛 109 | 🌐 C | 📅 2026-09-21, [Evernote android-job](https://github.com/evernote/android-job) ⭐ 5,346 | 🐛 4 | 🌐 Java | 📅 2022-07-13, [Facebook Litho](https://github.com/facebook/litho) ⭐ 7,800 | 🐛 116 | 🌐 Kotlin | 📅 2026-09-21, [Facebook SoLoader](https://github.com/facebook/SoLoader) ⭐ 1,443 | 🐛 40 | 🌐 Java | 📅 2026-08-26, [Data Binding](https://developer.android.com/topic/libraries/data-binding)
 
 ## :memo: Contributing
 
@@ -475,4 +475,4 @@ See [contributing.md](contributing.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

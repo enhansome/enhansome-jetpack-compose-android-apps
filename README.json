@@ -267,7 +267,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -292,7 +292,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -317,7 +317,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -342,7 +342,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -367,7 +367,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -392,7 +392,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -417,7 +417,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -442,7 +442,7 @@
                 "open_issues": 13,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23474,
+                "stars": 23476,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -467,7 +467,7 @@
                 "open_issues": 76,
                 "owner": "android",
                 "repo": "sunflower",
-                "stars": 17759,
+                "stars": 17760,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:15.299Z"
@@ -488,7 +488,7 @@
                 "open_issues": 571,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11275,
+                "stars": 11276,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -629,7 +629,7 @@
                 "open_issues": 12,
                 "owner": "PatilShreyas",
                 "repo": "NotyKT",
-                "stars": 1768,
+                "stars": 1767,
                 "topics": [
                   "android",
                   "api",
@@ -1334,6 +1334,32 @@
             },
             {
               "node_type": "item",
+              "title": "Plastix/Buzz",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🐝 Spelling Bee game for Android",
+                "homepage": "https://play.google.com/store/apps/details?id=io.github.plastix.buzz",
+                "id": 349895016,
+                "language": "Kotlin",
+                "license": "MPL-2.0",
+                "last_commit": "2024-04-04T01:33:48Z",
+                "open_issues": 1,
+                "owner": "Plastix",
+                "repo": "Buzz",
+                "stars": 95,
+                "topics": [
+                  "nyt-spelling-bee",
+                  "spelling",
+                  "spelling-bee",
+                  "wordgame"
+                ]
+              },
+              "first_seen": "2026-08-28T14:34:15.299Z"
+            },
+            {
+              "node_type": "item",
               "title": "hi-manshu/ComposePictures",
               "description": null,
               "children": [],
@@ -1358,32 +1384,6 @@
                   "jetpack-navigation",
                   "kotlin-flow",
                   "navigation-components"
-                ]
-              },
-              "first_seen": "2026-08-28T14:34:15.299Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Plastix/Buzz",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🐝 Spelling Bee game for Android",
-                "homepage": "https://play.google.com/store/apps/details?id=io.github.plastix.buzz",
-                "id": 349895016,
-                "language": "Kotlin",
-                "license": "MPL-2.0",
-                "last_commit": "2024-04-04T01:33:48Z",
-                "open_issues": 1,
-                "owner": "Plastix",
-                "repo": "Buzz",
-                "stars": 94,
-                "topics": [
-                  "nyt-spelling-bee",
-                  "spelling",
-                  "spelling-bee",
-                  "wordgame"
                 ]
               },
               "first_seen": "2026-08-28T14:34:15.299Z"
@@ -1950,7 +1950,7 @@
                 "open_issues": 16,
                 "owner": "IReaderorg",
                 "repo": "IReader",
-                "stars": 947,
+                "stars": 950,
                 "topics": [
                   "android",
                   "compose",
@@ -2286,7 +2286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:56:46.534Z",
+    "last_updated": "2026-09-24T07:47:26.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
