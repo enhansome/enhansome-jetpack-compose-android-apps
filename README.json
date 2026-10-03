@@ -4,257 +4,11 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": ":art: Pattern",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-            "homepage": null,
-            "id": 291133502,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-25T13:30:32Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1524,
-            "topics": [
-              "accompanist",
-              "android",
-              "android-apps",
-              "awesome",
-              "beginner-friendly",
-              "compose",
-              "compose-ui",
-              "coroutines",
-              "first-issue",
-              "flow",
-              "hilt",
-              "jetpack",
-              "jetpack-compose",
-              "kotlin",
-              "livedata",
-              "retrofit",
-              "room",
-              "viewmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:15.299Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Model View ViewModel (MVVM)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-            "homepage": null,
-            "id": 291133502,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-25T13:30:32Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1524,
-            "topics": [
-              "accompanist",
-              "android",
-              "android-apps",
-              "awesome",
-              "beginner-friendly",
-              "compose",
-              "compose-ui",
-              "coroutines",
-              "first-issue",
-              "flow",
-              "hilt",
-              "jetpack",
-              "jetpack-compose",
-              "kotlin",
-              "livedata",
-              "retrofit",
-              "room",
-              "viewmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:15.299Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Model View Intent (MVI)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-            "homepage": null,
-            "id": 291133502,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-25T13:30:32Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1524,
-            "topics": [
-              "accompanist",
-              "android",
-              "android-apps",
-              "awesome",
-              "beginner-friendly",
-              "compose",
-              "compose-ui",
-              "coroutines",
-              "first-issue",
-              "flow",
-              "hilt",
-              "jetpack",
-              "jetpack-compose",
-              "kotlin",
-              "livedata",
-              "retrofit",
-              "room",
-              "viewmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:15.299Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Other",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-            "homepage": null,
-            "id": 291133502,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-25T13:30:32Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1524,
-            "topics": [
-              "accompanist",
-              "android",
-              "android-apps",
-              "awesome",
-              "beginner-friendly",
-              "compose",
-              "compose-ui",
-              "coroutines",
-              "first-issue",
-              "flow",
-              "hilt",
-              "jetpack",
-              "jetpack-compose",
-              "kotlin",
-              "livedata",
-              "retrofit",
-              "room",
-              "viewmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:15.299Z"
-        },
-        {
-          "node_type": "item",
-          "title": ":books: Tech Stack/Libraries",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-            "homepage": null,
-            "id": 291133502,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-25T13:30:32Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1524,
-            "topics": [
-              "accompanist",
-              "android",
-              "android-apps",
-              "awesome",
-              "beginner-friendly",
-              "compose",
-              "compose-ui",
-              "coroutines",
-              "first-issue",
-              "flow",
-              "hilt",
-              "jetpack",
-              "jetpack-compose",
-              "kotlin",
-              "livedata",
-              "retrofit",
-              "room",
-              "viewmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:15.299Z"
-        },
-        {
-          "node_type": "item",
-          "title": ":memo: Contributing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
-            "homepage": null,
-            "id": 291133502,
-            "language": "Kotlin",
-            "license": null,
-            "last_commit": "2024-07-25T13:30:32Z",
-            "open_issues": 12,
-            "owner": "androiddevnotes",
-            "repo": "awesome-jetpack-compose-android-apps",
-            "stars": 1524,
-            "topics": [
-              "accompanist",
-              "android",
-              "android-apps",
-              "awesome",
-              "beginner-friendly",
-              "compose",
-              "compose-ui",
-              "coroutines",
-              "first-issue",
-              "flow",
-              "hilt",
-              "jetpack",
-              "jetpack-compose",
-              "kotlin",
-              "livedata",
-              "retrofit",
-              "room",
-              "viewmodel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:34:15.299Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,11 +17,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -279,7 +33,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -288,11 +42,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -304,7 +58,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,11 +67,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -329,7 +83,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -338,11 +92,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -354,7 +108,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -363,11 +117,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -379,7 +133,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,11 +142,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -404,7 +158,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -413,11 +167,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -429,7 +183,7 @@
             {
               "node_type": "item",
               "title": "android/compose-samples",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -438,11 +192,11 @@
                 "id": 211288349,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:59:14Z",
+                "last_commit": "2026-10-02T15:45:15Z",
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23491,
+                "stars": 23493,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -454,7 +208,7 @@
             {
               "node_type": "item",
               "title": "android/sunflower",
-              "description": null,
+              "description": "android/sunflower",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -475,7 +229,7 @@
             {
               "node_type": "item",
               "title": "Shabinder/SpotiFlyer",
-              "description": null,
+              "description": "Shabinder/SpotiFlyer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +242,7 @@
                 "open_issues": 571,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11281,
+                "stars": 11283,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -516,7 +270,7 @@
             {
               "node_type": "item",
               "title": "Gurupreet/ComposeCookBook",
-              "description": null,
+              "description": "Gurupreet/ComposeCookBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,11 +279,11 @@
                 "id": 293227683,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-19T00:05:14Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-03T00:06:49Z",
+                "open_issues": 8,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6879,
+                "stars": 6881,
                 "topics": [
                   "android",
                   "android-ui",
@@ -547,7 +301,7 @@
             {
               "node_type": "item",
               "title": "chrisbanes/tivi",
-              "description": null,
+              "description": "chrisbanes/tivi",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -560,7 +314,7 @@
                 "open_issues": 0,
                 "owner": "chrisbanes",
                 "repo": "tivi",
-                "stars": 6719,
+                "stars": 6718,
                 "topics": [
                   "android-application",
                   "jetpack-compose",
@@ -575,7 +329,7 @@
             {
               "node_type": "item",
               "title": "joreilly/PeopleInSpace",
-              "description": null,
+              "description": "joreilly/PeopleInSpace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -616,7 +370,7 @@
             {
               "node_type": "item",
               "title": "PatilShreyas/NotyKT",
-              "description": null,
+              "description": "PatilShreyas/NotyKT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -657,7 +411,7 @@
             {
               "node_type": "item",
               "title": "skydoves/DisneyCompose",
-              "description": null,
+              "description": "skydoves/DisneyCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,7 +444,7 @@
             {
               "node_type": "item",
               "title": "hitherejoe/ComposeAcademy-Playground",
-              "description": null,
+              "description": "hitherejoe/ComposeAcademy-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -711,7 +465,7 @@
             {
               "node_type": "item",
               "title": "DroidKaigi/conference-app-2021",
-              "description": null,
+              "description": "DroidKaigi/conference-app-2021",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,7 +493,7 @@
             {
               "node_type": "item",
               "title": "tylerbwong/stack",
-              "description": null,
+              "description": "tylerbwong/stack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,7 +506,7 @@
                 "open_issues": 18,
                 "owner": "tylerbwong",
                 "repo": "stack",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "android",
                   "dagger-hilt",
@@ -770,7 +524,7 @@
             {
               "node_type": "item",
               "title": "melbehiry/Delish",
-              "description": null,
+              "description": "melbehiry/Delish",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -809,7 +563,7 @@
             {
               "node_type": "item",
               "title": "romainguy/sample-materials-shop",
-              "description": null,
+              "description": "romainguy/sample-materials-shop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -833,7 +587,7 @@
             {
               "node_type": "item",
               "title": "FunkyMuse/Aurora",
-              "description": null,
+              "description": "FunkyMuse/Aurora",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -846,7 +600,7 @@
                 "open_issues": 22,
                 "owner": "FunkyMuse",
                 "repo": "Aurora",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "hilt-android",
                   "hilt-dagger2",
@@ -867,7 +621,7 @@
             {
               "node_type": "item",
               "title": "TakuSemba/JetHub",
-              "description": null,
+              "description": "TakuSemba/JetHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -898,7 +652,7 @@
             {
               "node_type": "item",
               "title": "hitherejoe/minimise",
-              "description": null,
+              "description": "hitherejoe/minimise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,7 +673,7 @@
             {
               "node_type": "item",
               "title": "fabirt/podcast-app",
-              "description": null,
+              "description": "fabirt/podcast-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -946,7 +700,7 @@
             {
               "node_type": "item",
               "title": "zedlabs/WallPortal",
-              "description": null,
+              "description": "zedlabs/WallPortal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,7 +735,7 @@
             {
               "node_type": "item",
               "title": "hitanshu-dhawan/McCompose",
-              "description": null,
+              "description": "hitanshu-dhawan/McCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1005,7 +759,7 @@
             {
               "node_type": "item",
               "title": "MaciejCiemiega/NewtonsTimer",
-              "description": null,
+              "description": "MaciejCiemiega/NewtonsTimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1026,7 +780,7 @@
             {
               "node_type": "item",
               "title": "gastsail/JetExample",
-              "description": null,
+              "description": "gastsail/JetExample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +806,7 @@
             {
               "node_type": "item",
               "title": "AnkitSuda/Rebound",
-              "description": null,
+              "description": "AnkitSuda/Rebound",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1073,7 +827,7 @@
             {
               "node_type": "item",
               "title": "AlexZhukovich/CoffeeDrinksWithJetpackCompose",
-              "description": null,
+              "description": "AlexZhukovich/CoffeeDrinksWithJetpackCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1099,7 +853,7 @@
             {
               "node_type": "item",
               "title": "rajandev17/Plasma",
-              "description": null,
+              "description": "rajandev17/Plasma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1140,7 +894,7 @@
             {
               "node_type": "item",
               "title": "EugeneTheDev/TaigaMobile",
-              "description": null,
+              "description": "EugeneTheDev/TaigaMobile",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1167,7 +921,7 @@
             {
               "node_type": "item",
               "title": "ahmed7official/Facebook-Timeline-Compose-Android",
-              "description": null,
+              "description": "ahmed7official/Facebook-Timeline-Compose-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1198,7 +952,7 @@
             {
               "node_type": "item",
               "title": "nezih94/chromie",
-              "description": null,
+              "description": "nezih94/chromie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1219,7 +973,7 @@
             {
               "node_type": "item",
               "title": "ashar-7/JetMessenger",
-              "description": null,
+              "description": "ashar-7/JetMessenger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1001,7 @@
             {
               "node_type": "item",
               "title": "adrianblancode/Cheddar",
-              "description": null,
+              "description": "adrianblancode/Cheddar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1272,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "sunny52525/JetSpotify",
-              "description": null,
+              "description": "sunny52525/JetSpotify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1293,7 +1047,7 @@
             {
               "node_type": "item",
               "title": "shinhyo/Compose-BreakingBad",
-              "description": null,
+              "description": "shinhyo/Compose-BreakingBad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1089,7 @@
             {
               "node_type": "item",
               "title": "Plastix/Buzz",
-              "description": null,
+              "description": "Plastix/Buzz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1361,7 +1115,7 @@
             {
               "node_type": "item",
               "title": "hi-manshu/ComposePictures",
-              "description": null,
+              "description": "hi-manshu/ComposePictures",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1391,7 +1145,7 @@
             {
               "node_type": "item",
               "title": "adityam49/Updoot",
-              "description": null,
+              "description": "adityam49/Updoot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1422,7 +1176,7 @@
             {
               "node_type": "item",
               "title": "keygenqt/android-GitHubViewer",
-              "description": null,
+              "description": "keygenqt/android-GitHubViewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1448,7 +1202,7 @@
             {
               "node_type": "item",
               "title": "QArtur99/Compose-ShoppingList",
-              "description": null,
+              "description": "QArtur99/Compose-ShoppingList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1479,7 +1233,7 @@
             {
               "node_type": "item",
               "title": "keygenqt/android-DemoCompose",
-              "description": null,
+              "description": "keygenqt/android-DemoCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1503,7 +1257,7 @@
             {
               "node_type": "item",
               "title": "iambaljeet/GitReposCompose",
-              "description": null,
+              "description": "iambaljeet/GitReposCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1539,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "kasem-sm/RocketXDelight-Playground",
-              "description": null,
+              "description": "kasem-sm/RocketXDelight-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1574,7 +1328,7 @@
             {
               "node_type": "item",
               "title": "Akashkamble/Newzz-Compose",
-              "description": null,
+              "description": "Akashkamble/Newzz-Compose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1604,7 +1358,7 @@
             {
               "node_type": "item",
               "title": "jitinsharma/android-conferences",
-              "description": null,
+              "description": "jitinsharma/android-conferences",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1629,7 +1383,7 @@
             {
               "node_type": "item",
               "title": "a914-gowtham/RickNMortyCompose",
-              "description": null,
+              "description": "a914-gowtham/RickNMortyCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1657,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "stackinflow/AndroidAppTemplate",
-              "description": null,
+              "description": "stackinflow/AndroidAppTemplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1687,7 +1441,7 @@
             {
               "node_type": "item",
               "title": "yashovardhan99/ComposeNotes",
-              "description": null,
+              "description": "yashovardhan99/ComposeNotes",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1715,7 +1469,7 @@
             {
               "node_type": "item",
               "title": "jeremyrempel/yahnapp",
-              "description": null,
+              "description": "jeremyrempel/yahnapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1736,7 +1490,7 @@
             {
               "node_type": "item",
               "title": "lionuncle/teamscope",
-              "description": null,
+              "description": "lionuncle/teamscope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1773,7 +1527,7 @@
             {
               "node_type": "item",
               "title": "SimformSolutionsPvtLtd/SSComposeCookBook",
-              "description": null,
+              "description": "SimformSolutionsPvtLtd/SSComposeCookBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1811,7 +1565,7 @@
             {
               "node_type": "item",
               "title": "vipulasri/JetDelivery",
-              "description": null,
+              "description": "vipulasri/JetDelivery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1838,7 +1592,7 @@
             {
               "node_type": "item",
               "title": "savvasdalkitsis/uhuruphotos-android",
-              "description": null,
+              "description": "savvasdalkitsis/uhuruphotos-android",
               "children": [
                 {
                   "node_type": "item",
@@ -1852,7 +1606,7 @@
                     "id": 485908521,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T03:48:42Z",
+                    "last_commit": "2026-10-02T11:54:57Z",
                     "open_issues": 66,
                     "owner": "savvasdalkitsis",
                     "repo": "uhuruphotos-android",
@@ -1878,7 +1632,7 @@
                 "id": 485908521,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T03:48:42Z",
+                "last_commit": "2026-10-02T11:54:57Z",
                 "open_issues": 66,
                 "owner": "savvasdalkitsis",
                 "repo": "uhuruphotos-android",
@@ -1899,7 +1653,7 @@
             {
               "node_type": "item",
               "title": "Popalay/Tracktor-ComposeUI",
-              "description": null,
+              "description": "Popalay/Tracktor-ComposeUI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1937,7 +1691,7 @@
             {
               "node_type": "item",
               "title": "IReaderorg/IReader",
-              "description": null,
+              "description": "IReaderorg/IReader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1947,7 +1701,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T22:13:48Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "IReaderorg",
                 "repo": "IReader",
                 "stars": 961,
@@ -1970,7 +1724,7 @@
             {
               "node_type": "item",
               "title": "vipulasri/JetInstagram",
-              "description": null,
+              "description": "vipulasri/JetInstagram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1995,7 +1749,7 @@
             {
               "node_type": "item",
               "title": "zsoltk/compose-pokedex",
-              "description": null,
+              "description": "zsoltk/compose-pokedex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2020,7 +1774,7 @@
             {
               "node_type": "item",
               "title": "MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone",
-              "description": null,
+              "description": "MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2050,7 +1804,7 @@
             {
               "node_type": "item",
               "title": "Spikeysanju/JetQuotes",
-              "description": null,
+              "description": "Spikeysanju/JetQuotes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2091,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "prafullmishra/JetComposer",
-              "description": null,
+              "description": "prafullmishra/JetComposer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2121,7 +1875,7 @@
             {
               "node_type": "item",
               "title": "SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
-              "description": null,
+              "description": "SimformSolutionsPvtLtd/SSJetPackComposeProgressButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2158,7 +1912,7 @@
             {
               "node_type": "item",
               "title": "wajahatkarim3/DinoCompose",
-              "description": null,
+              "description": "wajahatkarim3/DinoCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2191,7 +1945,7 @@
             {
               "node_type": "item",
               "title": "iambaljeet/TwitterCompose",
-              "description": null,
+              "description": "iambaljeet/TwitterCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2231,7 +1985,7 @@
             {
               "node_type": "item",
               "title": "andkulikov/compose-photoapp",
-              "description": null,
+              "description": "andkulikov/compose-photoapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2252,7 +2006,7 @@
             {
               "node_type": "item",
               "title": "Hessam-Emami/SnappCompose",
-              "description": null,
+              "description": "Hessam-Emami/SnappCompose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2286,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:57:57.574Z",
+    "last_updated": "2026-10-03T04:50:45.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
