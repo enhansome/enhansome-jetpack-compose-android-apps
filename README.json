@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -46,7 +46,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -71,7 +71,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -96,7 +96,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -121,7 +121,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -146,7 +146,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -171,7 +171,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -196,7 +196,7 @@
                 "open_issues": 6,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23493,
+                "stars": 23496,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -242,7 +242,7 @@
                 "open_issues": 571,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11283,
+                "stars": 11284,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -338,11 +338,11 @@
                 "id": 229625157,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:20:27Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-04T08:13:38Z",
+                "open_issues": 10,
                 "owner": "joreilly",
                 "repo": "PeopleInSpace",
-                "stars": 3431,
+                "stars": 3432,
                 "topics": [
                   "android",
                   "compose-desktop",
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:31:59.675Z",
+    "last_updated": "2026-10-04T08:44:03.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
@@ -2052,7 +2052,7 @@
       "open_issues": 12,
       "owner": "androiddevnotes",
       "repo": "awesome-jetpack-compose-android-apps",
-      "stars": 1524,
+      "stars": 1525,
       "topics": [
         "accompanist",
         "android",
