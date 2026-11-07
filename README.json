@@ -221,7 +221,7 @@
                 "open_issues": 76,
                 "owner": "android",
                 "repo": "sunflower",
-                "stars": 17733,
+                "stars": 17732,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:15.299Z"
@@ -242,7 +242,7 @@
                 "open_issues": 572,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11315,
+                "stars": 11319,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -283,7 +283,7 @@
                 "open_issues": 41,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6888,
+                "stars": 6887,
                 "topics": [
                   "android",
                   "android-ui",
@@ -314,7 +314,7 @@
                 "open_issues": 0,
                 "owner": "chrisbanes",
                 "repo": "tivi",
-                "stars": 6719,
+                "stars": 6718,
                 "topics": [
                   "android-application",
                   "jetpack-compose",
@@ -338,8 +338,8 @@
                 "id": 229625157,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T03:15:14Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-06T21:50:49Z",
+                "open_issues": 12,
                 "owner": "joreilly",
                 "repo": "PeopleInSpace",
                 "stars": 3442,
@@ -457,7 +457,7 @@
                 "open_issues": 2,
                 "owner": "hitherejoe",
                 "repo": "ComposeAcademy-Playground",
-                "stars": 963,
+                "stars": 962,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:15.299Z"
@@ -478,7 +478,7 @@
                 "open_issues": 45,
                 "owner": "DroidKaigi",
                 "repo": "conference-app-2021",
-                "stars": 636,
+                "stars": 635,
                 "topics": [
                   "android",
                   "droidkaigi",
@@ -506,7 +506,7 @@
                 "open_issues": 18,
                 "owner": "tylerbwong",
                 "repo": "stack",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "android",
                   "dagger-hilt",
@@ -1704,7 +1704,7 @@
                 "open_issues": 25,
                 "owner": "IReaderorg",
                 "repo": "IReader",
-                "stars": 987,
+                "stars": 988,
                 "topics": [
                   "android",
                   "compose",
@@ -1762,7 +1762,7 @@
                 "open_issues": 2,
                 "owner": "zsoltk",
                 "repo": "compose-pokedex",
-                "stars": 797,
+                "stars": 798,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -1925,7 +1925,7 @@
                 "open_issues": 4,
                 "owner": "wajahatkarim3",
                 "repo": "DinoCompose",
-                "stars": 286,
+                "stars": 285,
                 "topics": [
                   "android",
                   "android-app",
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:47:57.732Z",
+    "last_updated": "2026-11-07T09:11:35.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
