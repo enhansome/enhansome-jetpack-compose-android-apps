@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -46,7 +46,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -71,7 +71,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -96,7 +96,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -121,7 +121,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -146,7 +146,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -171,7 +171,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -196,7 +196,7 @@
                 "open_issues": 10,
                 "owner": "android",
                 "repo": "compose-samples",
-                "stars": 23557,
+                "stars": 23553,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -242,7 +242,7 @@
                 "open_issues": 572,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11326,
+                "stars": 11330,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -279,7 +279,7 @@
                 "id": 293227683,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-02T17:45:22Z",
+                "last_commit": "2026-11-14T00:03:42Z",
                 "open_issues": 41,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
@@ -338,8 +338,8 @@
                 "id": 229625157,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T00:02:40Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-13T21:16:32Z",
+                "open_issues": 8,
                 "owner": "joreilly",
                 "repo": "PeopleInSpace",
                 "stars": 3440,
@@ -506,7 +506,7 @@
                 "open_issues": 18,
                 "owner": "tylerbwong",
                 "repo": "stack",
-                "stars": 577,
+                "stars": 575,
                 "topics": [
                   "android",
                   "dagger-hilt",
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "melbehiry",
                 "repo": "Delish",
-                "stars": 531,
+                "stars": 530,
                 "topics": [
                   "android",
                   "architecture",
@@ -600,7 +600,7 @@
                 "open_issues": 22,
                 "owner": "FunkyMuse",
                 "repo": "Aurora",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "hilt-android",
                   "hilt-dagger2",
@@ -1606,11 +1606,11 @@
                     "id": 485908521,
                     "language": "Kotlin",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T16:42:41Z",
+                    "last_commit": "2026-11-13T22:15:59Z",
                     "open_issues": 54,
                     "owner": "savvasdalkitsis",
                     "repo": "uhuruphotos-android",
-                    "stars": 410,
+                    "stars": 411,
                     "topics": [
                       "android",
                       "android-app",
@@ -1632,11 +1632,11 @@
                 "id": 485908521,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T16:42:41Z",
+                "last_commit": "2026-11-13T22:15:59Z",
                 "open_issues": 54,
                 "owner": "savvasdalkitsis",
                 "repo": "uhuruphotos-android",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "android",
                   "android-app",
@@ -1700,8 +1700,8 @@
                 "id": 425288628,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T08:32:00Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-13T14:40:58Z",
+                "open_issues": 19,
                 "owner": "IReaderorg",
                 "repo": "IReader",
                 "stars": 995,
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:55:45.241Z",
+    "last_updated": "2026-11-14T09:21:58.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
