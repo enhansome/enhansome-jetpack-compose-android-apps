@@ -221,7 +221,7 @@
                 "open_issues": 76,
                 "owner": "android",
                 "repo": "sunflower",
-                "stars": 17726,
+                "stars": 17725,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:15.299Z"
@@ -242,7 +242,7 @@
                 "open_issues": 572,
                 "owner": "Shabinder",
                 "repo": "SpotiFlyer",
-                "stars": 11335,
+                "stars": 11338,
                 "topics": [
                   "album-downloader",
                   "albums",
@@ -279,11 +279,11 @@
                 "id": 293227683,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-14T00:03:42Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-21T00:03:38Z",
+                "open_issues": 40,
                 "owner": "Gurupreet",
                 "repo": "ComposeCookBook",
-                "stars": 6891,
+                "stars": 6892,
                 "topics": [
                   "android",
                   "android-ui",
@@ -338,8 +338,8 @@
                 "id": 229625157,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T03:40:54Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-21T04:42:30Z",
+                "open_issues": 11,
                 "owner": "joreilly",
                 "repo": "PeopleInSpace",
                 "stars": 3440,
@@ -1246,7 +1246,7 @@
                 "open_issues": 0,
                 "owner": "keygenqt",
                 "repo": "android-DemoCompose",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "application",
                   "compose"
@@ -1701,7 +1701,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T14:40:58Z",
-                "open_issues": 20,
+                "open_issues": 24,
                 "owner": "IReaderorg",
                 "repo": "IReader",
                 "stars": 1000,
@@ -1762,7 +1762,7 @@
                 "open_issues": 2,
                 "owner": "zsoltk",
                 "repo": "compose-pokedex",
-                "stars": 799,
+                "stars": 800,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:25:30.355Z",
+    "last_updated": "2026-11-21T10:09:03.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "👓 A curated list of awesome Jetpack Compose android apps by open-source contributors.",
@@ -2049,10 +2049,10 @@
       "language": "Kotlin",
       "license": null,
       "last_commit": "2024-07-25T13:30:32Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "androiddevnotes",
       "repo": "awesome-jetpack-compose-android-apps",
-      "stars": 1530,
+      "stars": 1531,
       "topics": [
         "accompanist",
         "android",
